@@ -1,0 +1,45 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\Typer_1\Typer_1\bin\Debug\Typer_1.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\bin\Debug\Typer_1.exe
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\bin\Debug\Typer_1.pdb
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Form1.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.exe
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.pdb
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Confirmation.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.CustomizeForm.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Finishing.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Help.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.InputDialoge.resources
+C:\Users\toshiba\Documents\Visual Studio 2012\Projects\Typer_1\Typer_1\obj\Debug\Typer_1.About.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\bin\Debug\Typer_1.exe.config
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.exe
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.pdb
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\bin\Debug\Typer_1.exe
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\bin\Debug\Typer_1.pdb
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.csprojResolveAssemblyReference.cache
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.About.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.Confirmation.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.CustomizeForm.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.Finishing.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.Form1.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.Help.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.InputDialoge.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.Properties.Resources.resources
+C:\Users\Endriyas\Downloads\Compressed\Typer_1\Typer_1\obj\Debug\Typer_1.csproj.GenerateResource.Cache
+E:\C# Projects\Typer_1\Typer_1\bin\Debug\Typer_1.exe.config
+E:\C# Projects\Typer_1\Typer_1\bin\Debug\Typer_1.exe
+E:\C# Projects\Typer_1\Typer_1\bin\Debug\Typer_1.pdb
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.About.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Confirmation.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.CustomizeForm.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Finishing.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Form1.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Help.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.InputDialoge.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.Properties.Resources.resources
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.csproj.GenerateResource.Cache
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.exe
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.pdb
+E:\C# Projects\Typer_1\Typer_1\obj\Debug\Typer_1.csprojResolveAssemblyReference.cache
